@@ -12,5 +12,6 @@ else if(number == 6 || number == 7)
 }
 else
 {
+    
     Console.WriteLine("We have only 7 days in week");
 }
